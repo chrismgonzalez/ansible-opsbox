@@ -1,0 +1,8 @@
+ansible==8.2.0 
+passlib
+pylint
+jsonschema
+molecule
+pre-commit
+docker
+GitPython
